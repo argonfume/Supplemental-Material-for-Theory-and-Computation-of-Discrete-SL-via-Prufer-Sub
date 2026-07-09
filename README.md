@@ -1,6 +1,4 @@
-Numerical implementation of Prufer-based shooting for the Discrete Sturm-Liouville Eigenvalue Problem. 
-
-Code and Supplemental materials for the paper: 
+***Numerical implementation of Prufer-based shooting for the Discrete Sturm-Liouville Eigenvalue Problem***
 
 **About the paper**
 
