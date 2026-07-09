@@ -36,5 +36,5 @@ To change grid behaviour, i.e. number of points on the grids and spacing, modify
 - Variables for Clustered grids are Fraction of Domain(frac_dom), Fraction of Points(frac_pts), and number of points on the grid(n). 
 - Variables for graded grids are Ratio(ratio) and number of points on the grid(n).
 
-Any other questions, contact Kimsear Lor(klor@ut.utm.edu). 
+Any other questions, contact Kimsear Lor (klor@ut.utm.edu). 
 
