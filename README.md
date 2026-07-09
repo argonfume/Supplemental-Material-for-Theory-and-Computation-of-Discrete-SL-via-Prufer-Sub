@@ -26,15 +26,15 @@ The Python files are divided by types of grids. Each Python file will include a 
 
 The **easiest** way to reproduce these results is to use Google Colab. By having a Google account, you have access to Google Colab. Copy a block of code that you desire to simulate and run it in the notebook. 
 
-To test out other numbers of eigenvalues, look for num or numeig(current: either 10 or 60); that is where you input a value to get that desired number of eigenvalues. 
+To test out other numbers of eigenvalues, look for ***num*** or ***numeig*** or ***numeigs*** (current: either 10 or 60); that is where you input a value to get that desired number of eigenvalues. 
 
-To change the number of points on the graph, look for the variable n(default n = 100).
+To change the number of points on the graph, look for the variable n (current: ***n*** = 100).
 
 To change grid behaviour, i.e. number of points on the grids and spacing, modify the following variables for the following grids: 
 
-- A variable for a uniform grid is the number of points on the grid(n).
-- Variables for Clustered grids are Fraction of Domain(frac_dom), Fraction of Points(frac_pts), and number of points on the grid(n). 
-- Variables for graded grids are Ratio(ratio) and number of points on the grid(n).
+- A variable for a uniform grid is the number of points on the grid: ***n***.
+- Variables for Clustered grids are Fraction of Domain: ***frac_dom***, Fraction of Points: ***frac_pts***, and number of points on the grid: ***n***. 
+- Variables for graded grids are Ratio(***ratio***) and the number of points on the grid ***n***.
 
 Any other questions, contact Kimsear Lor (klor@ut.utm.edu). 
 
