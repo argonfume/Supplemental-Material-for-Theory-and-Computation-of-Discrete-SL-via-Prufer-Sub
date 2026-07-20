@@ -34,7 +34,7 @@ To change grid behaviour, i.e. number of points on the grids and spacing, modify
 
 - A variable for a uniform grid is the number of points on the grid: ***n***.
 - Variables for Clustered grids are Fraction of Domain: ***frac_dom***, Fraction of Points: ***frac_pts***, and number of points on the grid: ***n***. 
-- Variables for graded grids are Ratio(***ratio***) and the number of points on the grid ***n***.
+- Variables for graded grids are Ratio: ***ratio*** and the number of points on the grid: ***n***.
 
-Any other questions, contact Kimsear Lor (klor@ut.utm.edu). 
+If you have questions, please contact Kimsear Lor (klor@ut.utm.edu). 
 
